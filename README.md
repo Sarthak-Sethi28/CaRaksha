@@ -1,20 +1,36 @@
 # CaRaksha
 
-Caraksha is a portable, low-cost safety device designed to enhance driver and road safety by addressing the three main causes of car accidents in India: distracted driving, drunk driving, and overspeeding. Integrated into a car's entertainment console, it uses sensors, cameras, and real-time alerts to prevent accidents and provide emergency support.
+🚗 Caraksha - Your Road Safety Companion
+Tagline: "Agar karni hai apni suraksha, Then use Caraksha!"
 
-Key Features:
+Developed by: Lotus Valley International School, Noida
 
-Overspeeding Prevention: Buzzers alert drivers exceeding speed limits.
-Drunk Driving Detection: Ethanol sensors trigger beeping and send SOS to emergency contacts.
-Distracted Driving Monitoring: Camera detects if the driver falls asleep or looks away, activating a buzzer.
-Accident Response: Displays driver health info (e.g., blood group, allergies) on an LCD screen and sends SOS to family and nearby hospitals via GPS.
-Road Mapping: External camera with Python-based video processing identifies obstacles, potholes, and road quality, aiding government road surveys.
-Inter-Vehicle Safety: Syncs with nearby Caraksha-equipped vehicles to prevent rear-end collisions during hard braking.
-Components:
+🌟 Overview:
 
-Arduino (image processing), Raspberry Pi (video processing), GPS tracker, ultrasonic sensors, ethanol sensor, camera, buzzer, LCD screen, GSM module, and more.
-Estimated Cost: ~₹14,000 (including manufacturing).
+Caraksha is a portable, budget-friendly safety device designed to boost driver and road safety in India. It tackles the top 3 accident causes—distracted driving, drunk driving, and overspeeding—using smart sensors, cameras, and real-time alerts. Seamlessly integrated into your car’s entertainment console, it’s here to keep you safe!
 
-Purpose:
+✨ Key Features
+🚨 Overspeeding Prevention: Buzzers sound off when you exceed speed limits.
+🍺 Drunk Driving Detection: Ethanol sensors beep and send SOS to emergency contacts.
+😴 Distracted Driving Monitoring: A camera spots sleepy or distracted drivers, triggering a buzzer.
+🩺 Accident Response: Shows health info (blood group, allergies) on an LCD and alerts family + nearby hospitals via GPS.
+🗺️ Road Mapping: An external camera with Python magic spots potholes, obstacles, and road quality—helping the government map roads smarter!
+🔗 Inter-Vehicle Safety: Syncs with other Caraksha cars to avoid rear-end crashes during sudden braking.
+🛠️ Components
+Arduino 📷 - Image processing
+Raspberry Pi 🎥 - Video processing
+GPS Tracker 🌍 - Location & hospital finder
+Ultrasonic Sensors 📡 - Nearby car detection
+Ethanol Sensor 🍷 - Alcohol detection
+Camera 👁️ - Driver monitoring
+Buzzer 🔊 - Alerts
+LCD Screen 📺 - Health info display
+GSM Module 📞 - SOS calls
+And more!
+💰 Estimated Cost: ~₹14,000 (including manufacturing)
 
-Caraksha aims to reduce road accidents, save lives, and assist in infrastructure development by providing real-time road data. It’s portable for use in both new and old vehicles.
+🎯 Purpose
+Caraksha is all about saving lives by cutting down road accidents and keeping your loved ones safe. Plus, it doubles as a tool for infrastructure growth with real-time road data. Portable and versatile, it works in both new and old vehicles!
+
+🌐 Website: CaRaksha
+
