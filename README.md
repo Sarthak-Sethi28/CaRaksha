@@ -27,10 +27,10 @@ Buzzer 🔊 - Alerts
 LCD Screen 📺 - Health info display
 GSM Module 📞 - SOS calls
 And more!
-💰 Estimated Cost: ~₹14,000 (including manufacturing)
+💰 Estimated Cost: ~₹14,000 INR (including manufacturing)
 
 🎯 Purpose
 Caraksha is all about saving lives by cutting down road accidents and keeping your loved ones safe. Plus, it doubles as a tool for infrastructure growth with real-time road data. Portable and versatile, it works in both new and old vehicles!
 
-🌐 Website: CaRaksha
+
 
